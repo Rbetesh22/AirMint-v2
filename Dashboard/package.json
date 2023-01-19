@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@headlessui/react": "^1.7.7",
+    "@next/font": "13.1.1",
+    "@privy-io/react-auth": "^1.9.0",
+    "alchemy-sdk": "^2.2.5",
+    "axios": "^1.2.2",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "styled-components": "^5.3.6",
+    "twitter-api-sdk": "^1.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  }
+}

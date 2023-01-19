@@ -1,0 +1,40 @@
+{
+  "name": "airmint",
+  "version": "0.1",
+  "description": "airmint npm package",
+  "keywords": [
+    "react",
+    "components",
+    "ui"
+  ],
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "./package.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && NODE_ENV=production babel lib --out-dir dist --copy-files"
+  },
+  "author": "Airmint",
+  "license": "ISC",
+  "peerDependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "axios": "^1.2.2",
+    "react": "^18.2.0",
+    "styled-components": "^5.3.6",
+    "alchemy-sdk": "^2.2.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^2.2.5",
+    "axios": "^1.2.2"
+  }
+}
