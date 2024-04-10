@@ -1,4 +1,4 @@
-# Airmint - Supercharging Growth for Web3 Communities 🎯
+# AirMint - Supercharging Growth for Web3 Communities 🎯
 
 AirMint is a B2B SAAS platform that offers tools to communities to improve their engagement with holders and drive growth. We track and synthesize on-chain and off-chain data in real time, and provide communities with customizable rewards APIs that allow them to reward their most engaged and loyal holders with rewards such as Poaps, exclusive merchandise, airdrops of rare NFTs, whitelists, money, collaboration opportunities with other users or creators, recognition on landing pages, and more. The platform also integrates AI to analyze holder engagement data and detect fraudulent activities, and provides recommendations on how to allocate rewards to engaged users. AirMint operates on a freemium subscription model ranging from $0 to $10,000 per month, and is designed for third-party integrations.
 ## API
