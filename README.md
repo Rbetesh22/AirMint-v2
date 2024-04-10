@@ -1,4 +1,4 @@
-# Airmint- keep your community engaged🎯
+# Airmint- keeping NFT communities engaged🎯
 
 AirMint is a B2B SAAS platform that offers tools to communities to improve their engagement with holders and drive growth. We track and synthesize on-chain and off-chain data in real time, and provide communities with customizable rewards APIs that allow them to reward their most engaged and loyal holders with rewards such as Poaps, exclusive merchandise, airdrops of rare NFTs, whitelists, money, collaboration opportunities with other users or creators, recognition on landing pages, and more. The platform also integrates AI to analyze holder engagement data and detect fraudulent activities, and provides recommendations on how to allocate rewards to engaged users. AirMint operates on a freemium subscription model ranging from $0 to $10,000 per month, and is designed for third-party integrations.
 ## API
@@ -174,21 +174,21 @@ All **modals** that are used accross the app are located under **/components/mod
 
 ## NPM PACKAGE
 
-For now there is just LoginButton that is fetching and printing the metrics you need to calculate the score. We must add many more components to this
+For now there is just a LoginButton that is fetching and printing the metrics you need to calculate the score. We must add many more components to this
 
-## What we need make it a full MVP🎯
+## Remaining to-do's for full MVP🎯
 
-- Connecting forms in the project's profile page to backend (metrics and styles)
-- Designing an Overview page (some chart?, leaders, recent quests etc.)
+- Connect forms in the project's profile page to backend (metrics and styles)
+- Design an Overview page (some chart?, leaders, recent quests etc.)
 - Finishing holder profile modal
-- Designing a landing page
+- New landing page
 - Secure everything
-- Adding filters and sorting to leaderboard and quest modal
-- Adding appropriate Twitter and Discord authorization buttons to sign up modal (instead of pasting links)
-- Developing a simple npm package (customizable leaderboard and quest board with easy log in with privy)
-- Developing blockchain side(Airdrop smart contract, sending NFTs and ERC20 tokens) and connect it with frontend
-- Adding option to select the specific time(at least an hour) for quest to start
-- Adding even more metrics that the score will be based on
-- Adding even more quest options (unfortunately Twitter API is not helping with that too much)
-- Writing a script to update all scores every 24h
-- Securing the API with requireAuth
+- Add filters and sorting to leaderboard and quest modal
+- Add appropriate Twitter and Discord authorization buttons to sign up modal (instead of pasting links)
+- Develop a simple npm package (customizable leaderboard and quest board with easy log in with privy)
+- Develop blockchain side(Airdrop smart contract, sending NFTs and ERC20 tokens) and connect it with frontend
+- Add option to select the specific time(at least an hour) for quest to start
+- Add even more metrics that the score will be based on
+- Add even more quest options (unfortunately Twitter API is not helping with that too much)
+- Writw a script to update all scores every 24h
+- Secure the API with requireAuth
